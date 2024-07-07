@@ -14,7 +14,6 @@ Our application aims to enable handicapped people to control the computer throug
 
 
 ## Results
-[Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
 <img width="358" alt="image" src="https://github.com/JoeChuang02/Cursor-Mover/assets/174952737/8c167a0d-699f-4b39-a708-d559fdb8d60c">
 
 
