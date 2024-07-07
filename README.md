@@ -14,6 +14,8 @@ Our application aims to enable handicapped people to control the computer throug
 
 
 ## Results
+### Confusion Matrix
+The following confusion matrix displays  the results of predictions made by our model compared to the actual classes. 
 <img width="358" alt="image" src="https://github.com/JoeChuang02/Cursor-Mover/assets/174952737/8c167a0d-699f-4b39-a708-d559fdb8d60c">
 
 
