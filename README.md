@@ -102,7 +102,7 @@ Advanced voice recognition systems can be tailored to recognize individual voice
 
 ## Contributors
 112ZU1002 莊鎧肇 Joe (Project Manager, Programmer, Final Paper Research Methods and Result Compose)  
-112ZU1004 方喻麟 Teresa (, Final Paper Research Methods and Result Compose)  
+112ZU1004 方喻麟 Teresa (Vice Project Manager, Final Paper Research Methods and Result Compose)  
 112ZU1009 何靜書 Cecilia (Slides Designer, Data Collector, Final Paper Motivation and Future Prospect Compose)  
 112Zu1010 曹紫茵 Ariel (Slides Content Organizer, Data Collector, Final Paper Concept Compose)  
 112ZU1037 羅怡蕊 Monse (Poster Editor, Data Collector)  
