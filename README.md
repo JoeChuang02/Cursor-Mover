@@ -67,7 +67,10 @@ Locations on the screen are referred to by X and Y Cartesian coordinates. The X 
     - Cursor Movement
 After setting the screen resolution size, (2560, 1440) the moving distance each time is 400 pixels. 
     - Voice Command Reception
-The period between each voice reception is 1 second. If nothing is spoken during the duration of the model recognizes the sound recorded as words other than the five, the model will return an error and no action will be taken. 
+The period between each voice reception is 1 second. If nothing is spoken during the duration of the model recognizes the sound recorded as words other than the five, the model will return an error and no action will be taken.
+
+## Code
+https://github.com/JoeChuang02/Cursor-Mover/blob/main/code.md
 
 ## Results
 The following confusion matrix displays the results of our model's predictions compared to the actual classes. It indicates that our model is better at distinguishing "up," "down," and "click" commands, but has more difficulty distinguishing between "left" and "right."  
