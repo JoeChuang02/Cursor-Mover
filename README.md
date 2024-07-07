@@ -6,8 +6,8 @@ We aim to develop a robust voice command recognition system, capable of understa
 Our application aims to enable handicapped people to control the computer through AI-assisted mouse control.
 
 ## Motivation
-
-[Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
+In an era marked by relentless scientific and technological advancement, there is an inherent belief in the need for more accessible innovations to serve the public. These innovations aim to address the limitations imposed by either congenital or acquired conditions, striving to perfect human society by doing things that human beings cannot do on their own.
+After thinking about the difficulties that may be encountered in various daily lives, our group chose the target group as people who face the daily challenge of limited limb mobility. Then, combining what we have learned in the class and considering the feasibility, we will focus on our goal of developing a powerful voice command recognition system that can understand and operate the mouse in response to specific verbal commands, which means that users can control the computer verbally without touching the mouse.
 
 ## Research Method
 1. Data collection
