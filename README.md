@@ -35,9 +35,9 @@ The audio files mentioned in the first bullet point were put into five categorie
   - Model Training
     - Building CNN Model
       - Data Splitting
-The data was split into 20% training data and 80% testing data.
+        The data was split into 20% training data and 80% testing data.
       - Data Scaling
-Features of audio clips that fall in the same category were first standardized by removing the mean and scaling to unit variance. “x_train” was scaled after being reshaped into a 2D array. After the procedure, they were reshaped back into 4D.
+        Features of audio clips that fall in the same category were first standardized by removing the mean and scaling to unit variance. “x_train” was scaled after being reshaped into a 2D array. After the procedure, they were reshaped back into 4D.
     - Defining CNN Model 
 Below are the chronological layers we insert into the model.
       - First Conv2D Layer with relu activator
