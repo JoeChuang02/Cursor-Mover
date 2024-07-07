@@ -1,21 +1,15 @@
 # Cursor-Mover
-This GitHub repository offers a template specifically designed to teach students how to write effective README.md files and create a well-organized file structure. The template provides clear instructions and examples, helping students to learn the basics of GitHub and how to create professional-looking repositories.
-
-
-# Project Title
-
-Voice Recognizing Cursor Mover
 
 ## Project Description
 
-Our goal is to develop a robust voice command recognition system, capable of understanding and responding to specific spoken instructions.  
+We aim to develop a robust voice command recognition system, capable of understanding and responding to specific spoken instructions.  
 Our application aims to enable handicapped people to control the computer through AI-assisted mouse control.
 
-## Getting Started
+## Motivation
 
 [Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
 
-## File Structure
+## Research Method
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
 
