@@ -74,7 +74,7 @@ The period between each voice reception is 1 second. If nothing is spoken during
 
 ## Results
 ### Confusion Matrix
-The following confusion matrix displays the results of our model's predictions compared to the actual classes. It indicates that our model is better at distinguishing "up," "down," and "click" commands, but has more difficulty distinguishing between "left" and "right."
+The following confusion matrix displays the results of our model's predictions compared to the actual classes. It indicates that our model is better at distinguishing "up," "down," and "click" commands, but has more difficulty distinguishing between "left" and "right."  
 <img width="358" alt="image" src="https://github.com/JoeChuang02/Cursor-Mover/assets/174952737/8c167a0d-699f-4b39-a708-d559fdb8d60c">
 
 
