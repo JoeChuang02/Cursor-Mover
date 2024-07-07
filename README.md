@@ -69,7 +69,7 @@ After setting the screen resolution size, (2560, 1440) the moving distance each 
     - Voice Command Reception
 The period between each voice reception is 1 second. If nothing is spoken during the duration of the model recognizes the sound recorded as words other than the five, the model will return an error and no action will be taken. 
 
-
+## Code
 
 
 ## Results
