@@ -4,11 +4,12 @@ This GitHub repository offers a template specifically designed to teach students
 
 # Project Title
 
-[Enter the title of your project]
+Voice Recognizing Cursor Mover
 
 ## Project Description
 
-[Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
+Our goal is to develop a robust voice command recognition system, capable of understanding and responding to specific spoken instructions.  
+Our application aims to enable handicapped people to control the computer through AI-assisted mouse control.
 
 ## Getting Started
 
@@ -28,7 +29,12 @@ This GitHub repository offers a template specifically designed to teach students
 
 ## Contributors
 
-[List the contributors to your project and describe their roles and responsibilities.]
+112ZU1002 莊鎧肇 Joe (Project Manager, Programmer, Final Paper Research Methods and Result Compose)  
+112ZU1004 方喻麟 Teresa (, Final Paper Research Methods and Result Compose)  
+112ZU1009 何靜書 Cecilia (Slides Designer, Data Collector, Final Paper Motivation and Future Prospect Compose)  
+112Zu1010 曹紫茵 Ariel (Slides Content Organizer, Data Collector, Final Paper Concept Compose)  
+112ZU1037 羅怡蕊 Monse (Poster Editor, Data Collector)  
+112ZU1052 賴珮妤 Ashley (Poster Copyeditor, Data Collector, Final Paper Concept Compose)
 
 ## Acknowledgments
 
