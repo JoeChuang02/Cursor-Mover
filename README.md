@@ -7,7 +7,10 @@ Our application aims to enable handicapped people to control the computer throug
 
 ## Motivation
 
-[Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
+In an era marked by relentless scientific and technological advancement, there is an inherent belief in the need for more accessible innovations to serve the public. These innovations aim to address the limitations imposed by either congenital or acquired conditions, striving to perfect human society by doing things that human beings cannot do on their own.  
+
+After thinking about the difficulties that may be encountered in various daily lives, our group chose the target group as people who face the daily challenge of limited limb mobility. Then, combining what we have learned in the class and considering the feasibility, we will focus on our goal of developing a powerful voice command recognition system that can understand and operate the mouse in response to specific verbal commands, which means that users can control the computer verbally without touching the mouse.
+
 
 ## Research Method
 1. Data collection
@@ -16,10 +19,11 @@ Audio clips are essential for training a voice recognition system. We collect th
 To ensure the diversity of audio files, we collected data by asking people with different accents to help record the clips. By doing so, we can increase the stability in accuracy rate when under different accents and tones. We gathered 415 clips for each word, namely, 2075 files in total. All the files were stored in WAV form.
  - Labeling 
 After the collection process, the files are categorized into corresponding classes: up, down, left, right and click. In each folder, clips are labeled with serial numbers (1 to 415.)
+
 2. Coding
   - Installing and Importing Necessary Libraries
 Due to the space constraint, only some special and important libraries, training processes and problem-solving methods used in the project are listed and explained below. For the complete coding, please refer to the attachment at the end of this document.
-    - Installing Libraries
+  - Installing Libraries
 pydub
       - “pydub,” a Python library for audio manipulation, is needed to integrate audio processing capabilities into Python projects. It allows the performance of a variety of audio processing tasks such as cutting, concatenating, and converting audio files.
 FFmpeg
@@ -75,7 +79,8 @@ The period between each voice reception is 1 second. If nothing is spoken during
 ## Results
 ### Confusion Matrix
 The following confusion matrix displays  the results of predictions made by our model compared to the actual classes. 
-<img width="358" alt="image" src="https://github.com/JoeChuang02/Cursor-Mover/assets/174952737/8c167a0d-699f-4b39-a708-d559fdb8d60c">
+  
+  <img width="358" alt="image" src="https://github.com/JoeChuang02/Cursor-Mover/assets/174952737/8c167a0d-699f-4b39-a708-d559fdb8d60c">
 
 
 ## Future Prospect
