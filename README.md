@@ -10,19 +10,13 @@ Our application aims to enable handicapped people to control the computer throug
 [Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
 
 ## Research Method
-
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
 
-## Analysis
-
-[Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
 
 ## Results
-
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
 
 ## Contributors
-
 112ZU1002 莊鎧肇 Joe (Project Manager, Programmer, Final Paper Research Methods and Result Compose)  
 112ZU1004 方喻麟 Teresa (, Final Paper Research Methods and Result Compose)  
 112ZU1009 何靜書 Cecilia (Slides Designer, Data Collector, Final Paper Motivation and Future Prospect Compose)  
