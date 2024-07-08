@@ -111,7 +111,7 @@ Advanced voice recognition systems can be tailored to recognize individual voice
 
 ## Acknowledgments
 
-[Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
+First, we want to thank the advice and support Professor Pien and TA gave us. Second, thank the team members for the awkward moments when collecting the voice data. Last but not least, we'd like to thank all the Introduction to AI course students for their feedback and voice.
 
 ## References
 
