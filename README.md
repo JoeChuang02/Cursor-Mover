@@ -114,5 +114,6 @@ Advanced voice recognition systems can be tailored to recognize individual voice
 First, we want to thank the advice and support Professor Pien and TA gave us. Second, thank the team members for the awkward moments when collecting the voice data. Last but not least, we'd like to thank all the Introduction to AI course students for their feedback and voice.
 
 ## References
-
-[List any references or resources that you used during your project, including data sources, analytical methods, and tools.]
+  
+Sweigart, Al, PyAutoGUI, https://pyautogui.readthedocs.io/en/latest/mouse.html
+Bellard, Fabrice, FFmpeg, https://github.com/kkroening/ffmpeg-python/tree/master/ffmpeg
